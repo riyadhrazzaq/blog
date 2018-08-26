@@ -7,7 +7,7 @@ keywords: "dummy content"
 ---
 
 # hello world
-new project:  [Minimal Markdown Editor](minimalme.herokuapp.com)
+new project:  [Minimal Markdown Editor](https://minimalme.herokuapp.com)
 ```
 printf("hello world %s\n",i);
 ```
